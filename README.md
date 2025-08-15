@@ -3,10 +3,6 @@
 
 I built a small hand-tracking mouse for Windows using a webcam, MediaPipe Hands, and a robust **thumb + index** pinch pipeline. My goal is everyday usability: accurate clicks, reliable double-clicks, and practical drag & drop—without tiring gestures.
 
-<p align="center">
-  <img src="docs/screenshot.jpg" alt="Preview" width="75%">
-</p>
-
 ---
 
 ## Why
